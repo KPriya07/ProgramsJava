@@ -1,5 +1,7 @@
 
 //method program
+
+//commit to Github after updates wednesday
 package Test;
 import java.util.*;
 
